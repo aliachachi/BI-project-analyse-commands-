@@ -13,3 +13,7 @@
  - SQLserver
  - Talend 
  - Tableau
+ 
+# Result 
+- In BI_Project.pdf : there is all the steps and the final dashboard (result) 
+  you can download it ^^
